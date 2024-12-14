@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirsConsole", "FirsConsole\FirsConsole.csproj", "{30494E72-FA3B-48A7-A79D-68D5DD5984BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTanimlama", "DegiskenTanimlama\DegiskenTanimlama.csproj", "{4F59BDA8-D6B4-43CF-9288-2091C706E38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alistirmalar", "alistirmalar\alistirmalar.csproj", "{702B8FC3-8AA9-46F5-BEF1-F59FC4628832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30494E72-FA3B-48A7-A79D-68D5DD5984BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30494E72-FA3B-48A7-A79D-68D5DD5984BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30494E72-FA3B-48A7-A79D-68D5DD5984BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30494E72-FA3B-48A7-A79D-68D5DD5984BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F59BDA8-D6B4-43CF-9288-2091C706E38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F59BDA8-D6B4-43CF-9288-2091C706E38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F59BDA8-D6B4-43CF-9288-2091C706E38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F59BDA8-D6B4-43CF-9288-2091C706E38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702B8FC3-8AA9-46F5-BEF1-F59FC4628832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702B8FC3-8AA9-46F5-BEF1-F59FC4628832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702B8FC3-8AA9-46F5-BEF1-F59FC4628832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702B8FC3-8AA9-46F5-BEF1-F59FC4628832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
