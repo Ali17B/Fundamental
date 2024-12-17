@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_11_structkavrami</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\BilgisayarBilesenleri\" />
+    <Folder Include="Models\HastaneYonetim\" />
+    <Folder Include="Models\UrunYonetimi\" />
+  </ItemGroup>
+
+</Project>
